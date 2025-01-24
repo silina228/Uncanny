@@ -13,22 +13,44 @@
   </head>
   <body>
     <header>
-      <h1>Личный сайт</h1>
-      <p>Который сделан на основе готового шаблона</p>
-      <nav>
-        <ul>
-          <li><a href="index.html">Эта страница</a></li>
-          <li><a href="catalog.html">Другая страница</a></li>
-        </ul>
-      </nav>
+      <h1>Uncanny</h1>
+      <p>Undertale</p>
     </header>
     <main>
       <article>
         <section>
-          <h2>Первая секция</h2>
-          <p>Она обо мне</p>
-          <img src="images/image.png" alt="Человек и пароход">
-          <p>Но может быть и о семантике, я пока не решил.</p>
+          <img src="img_1/img_7271.png" alt="Человек и пароход">
+          <img src="img_1/img_7272.png" alt="Человек и пароход">
+          <img src="img_1/img_7273.png" alt="Человек и пароход">
+          <img src="img_1/img_7274.png" alt="Человек и пароход">
+          <img src="img_1/img_7275.png" alt="Человек и пароход">
+          <img src="img_1/img_7276.png" alt="Человек и пароход">
+          <img src="img_1/img_7277.png" alt="Человек и пароход">
+          <img src="img_1/img_7278.png" alt="Человек и пароход">
+          <img src="img_1/img_7279.png" alt="Человек и пароход">
+          <img src="img_1/img_7280.png" alt="Человек и пароход">
+          <img src="img_1/img_7281.png" alt="Человек и пароход">
+          <img src="img_1/img_7282.png" alt="Человек и пароход">
+          <img src="img_1/img_7283.png" alt="Человек и пароход">
+          <img src="img_1/img_7284.png" alt="Человек и пароход">
+          <img src="img_1/img_7285.png" alt="Человек и пароход">
+          <img src="img_1/img_7286.png" alt="Человек и пароход">
+          <img src="img_1/img_7287.png" alt="Человек и пароход">
+          <img src="img_1/img_7288.png" alt="Человек и пароход">
+          <img src="img_1/img_7289.png" alt="Человек и пароход">
+          <img src="img_1/img_7290.png" alt="Человек и пароход">
+          <img src="img_1/img_7291.png" alt="Человек и пароход">
+          <img src="img_1/img_7292.png" alt="Человек и пароход">
+          <img src="img_1/img_7293.png" alt="Человек и пароход">
+          <img src="img_1/img_7294.png" alt="Человек и пароход">
+          <img src="img_1/img_7295.png" alt="Человек и пароход">
+          <img src="img_1/img_7296.png" alt="Человек и пароход">
+          <img src="img_1/img_7297.png" alt="Человек и пароход">
+          <img src="img_1/img_7298.png" alt="Человек и пароход">
+          <img src="img_1/img_7299.png" alt="Человек и пароход">
+          <img src="img_1/img_7300.png" alt="Человек и пароход">
+          <img src="img_1/img_7301.png" alt="Человек и пароход">
+          <img src="img_1/img_7302.png" alt="Человек и пароход">
         </section>
         <section>
           <h2>Вторая секция</h2>
@@ -43,6 +65,5 @@
     <footer>
       <p>Сюда бы я вписал информацию об авторе и ссылки на другие сайты</p>
     </footer>
-    <!-- сюда можно подключить jquery <script src="scripts/app.js" defer></script> -->
   </body>
 </html>
